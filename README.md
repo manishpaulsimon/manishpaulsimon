@@ -5,7 +5,7 @@ I am a passionate self-taught Web Developer, driven by a curiosity for technolog
 ## 🚀 About Me
 
 - 🔭 I'm currently learning to code via the odin project.
-- 📝 I've built in-depth courses for interior designs and architects on  [sketchupguru.com](https://sketchupguru.com), accumulating over 50k students within 3 years.
+- 📝 I've built in-depth courses for interior designers and architects on  [sketchupguru.com](https://sketchupguru.com), accumulating over 50k students within 3 years.
 - 🌐 Started an Architectural Podcast [Archgyan](https://archgyan.com/), contributing to the architecture community.
 
 ## Tech Stack
