@@ -31,3 +31,5 @@ I am a passionate self-taught Web Developer, driven by a curiosity for technolog
 - Find my portfolio on [manishpaulsimon.com](https://manishpaulsimon.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+![](https://hit.yhype.me/github/profile?user_id=62095331)
