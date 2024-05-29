@@ -32,5 +32,5 @@ I am a passionate self-taught Web Developer, driven by a curiosity for technolog
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-![](https://komarev.com/ghpvc/?username=manishpaulsimon)
+![](https://komarev.com/ghpvc/?username=manishpaulsimon&base=1000)
 ![](https://hit.yhype.me/github/profile?user_id=62095331)
