@@ -12,11 +12,11 @@ I am a passionate self-taught Web Developer, driven by a curiosity for technolog
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-## Architectural TechStack 
+## Architectural TechStack
 
 [![My Skills](https://skillicons.dev/icons?i=sketchup,autocad)](https://skillicons.dev) + Revit, Navisworks, Adobe Creative Suite (Photoshop/InDesign/Illustrator)
 
-Visuals on https://www.behance.net/manishpaulsimon
+Visuals on https://www.behance.net/manishpaulsimon |
 Arch. Portfolio: https://drive.google.com/file/d/1bMV1VsGMTnxEtY0c6ahM4MmeYoz3j7nD/view?usp=sharing
 
 ## 🌱 Currently Exploring
