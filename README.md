@@ -2,19 +2,16 @@
 
 I started out as an Architect, built online courses and now building cool stuff for the AEC industry.
 
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 ## Architectural TechStack
 
-[![My Skills](https://skillicons.dev/icons?i=sketchup,autocad)](https://skillicons.dev) + Revit, Navisworks, Adobe Creative Suite (Photoshop/InDesign/Illustrator)
+- Revit (Autodesk Certified) (Also teaching Revit in German)
+- Navisworks
+- ACC
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - C# and the Revit API
-  - A bit of Ruby and the Sketchup API
+- C# and the Revit API
+- Ruby and the Sketchup API
 
 ## 📬 Get in Touch
 
