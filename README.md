@@ -1,12 +1,6 @@
 # Hi, I'm Manish Simon! 👋
 
-I am a passionate self-taught Web Developer, driven by a curiosity for technology and a love for writing. I started out as an Architect, built online courses and now building cool stuff for the web.
-
-## 🚀 About Me
-
-- 🔭 I'm currently learning to code via the odin project.
-- 📝 I've built in-depth courses for interior designers and architects on [sketchupguru.com](https://sketchupguru.com), accumulating over 50k students within 3 years.
-- 🌐 Started an Architectural Podcast [Archgyan](https://archgyan.com/), contributing to the architecture community.
+I started out as an Architect, built online courses and now building cool stuff for the AEC industry.
 
 ## Tech Stack
 
